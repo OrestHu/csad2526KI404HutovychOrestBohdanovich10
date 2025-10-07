@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 csad2526KI404HutovychOrestBohdanovich10
 ========================================
 
@@ -28,3 +29,6 @@ cmake --build build --target unit_tests
 ctest --test-dir build -C Debug
 cmake --build build --target run_tests  # optional shortcut
 ```
+=======
+# csad2526KI404HutovychOrestBohdanovich10
+>>>>>>> c036427 (Initial commit)
