@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 csad2526KI404HutovychOrestBohdanovich10
 ========================================
 
@@ -32,3 +33,6 @@ cmake --build build --target run_tests  # optional shortcut
 =======
 # csad2526KI404HutovychOrestBohdanovich10
 >>>>>>> c036427 (Initial commit)
+=======
+# csad2526KI404HutovychOrestBohdanovich10
+>>>>>>> origin/master
